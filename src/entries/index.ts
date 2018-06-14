@@ -118,6 +118,7 @@ import "../localization/polish";
 import "../localization/portuguese";
 import "../localization/simplified-chinese";
 import "../localization/spanish";
+import "../localization/ukrainian";
 
 //adorners
 export { titleAdorner } from "../adorners/title-editor";
